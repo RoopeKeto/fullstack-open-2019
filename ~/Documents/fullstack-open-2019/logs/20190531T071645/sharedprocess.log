@@ -1,0 +1,20 @@
+[2019-05-31 07:16:48.740] [sharedprocess] [info] main {"machineId":"26e7904650081980639fe5b87392a4c88799e486fcd37d4d8e00cd4c0570a0b8"}
+[2019-05-31 07:16:48.827] [sharedprocess] [info] Scanned user extensions: 1
+[2019-05-31 07:16:48.842] [sharedprocess] [info] Scanned user extensions: 1
+[2019-05-31 07:16:48.849] [sharedprocess] [info] Scanned user extensions: 1
+[2019-05-31 07:16:48.874] [sharedprocess] [info] Scanned system extensions: 72
+[2019-05-31 07:16:48.878] [sharedprocess] [info] Scanned system extensions: 72
+[2019-05-31 07:16:48.881] [sharedprocess] [info] Scanned system extensions: 72
+[2019-05-31 07:16:49.276] [sharedprocess] [info] Scanned user extensions: 1
+[2019-05-31 07:16:50.299] [sharedprocess] [info] Installing extension: ms-python.python
+[2019-05-31 07:16:50.306] [sharedprocess] [info] Scanned user extensions: 1
+[2019-05-31 07:17:01.801] [sharedprocess] [info] Downloaded extension: ms-python.python /tmp/f4eda600-3640-4ccd-8530-a30967f2144e
+[2019-05-31 07:17:02.783] [sharedprocess] [info] Extracted extension to /home/roope/.vscode/extensions/.ms-python.python-2019.5.17517: ms-python.python
+[2019-05-31 07:17:02.783] [sharedprocess] [info] Renamed to /home/roope/.vscode/extensions/ms-python.python-2019.5.17517
+[2019-05-31 07:17:02.786] [sharedprocess] [info] Installation completed. ms-python.python
+[2019-05-31 07:17:02.797] [sharedprocess] [info] Extensions installed successfully: ms-python.python
+[2019-05-31 07:17:28.751] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-05-31 07:21:49.372] [sharedprocess] [info] Scanned user extensions: 1
+[2019-05-31 07:26:49.382] [sharedprocess] [info] Scanned user extensions: 1
+[2019-05-31 07:31:49.393] [sharedprocess] [info] Scanned user extensions: 1
+[2019-05-31 07:36:49.406] [sharedprocess] [info] Scanned user extensions: 1

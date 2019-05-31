@@ -13,36 +13,46 @@ const App = () => {
   return (
     <div>
 			<Header course={course} />
-
+      <Content content1={part1} content2={part2} content3 ={part3} 
+              harjoitus1={exercises1} harjoitus2={exercises2} harjoitus3={exercises3}/>
+      <Total harjoitus1={exercises1} harjoitus2={exercises2} harjoitus3={exercises3}/>
 		</div>
 	)
 }
-/*
-      <h1>{course}</h1>
-      <p>
-        {part1} {exercises1}
-      </p>
-      <p>
-        {part2} {exercises2}
-      </p>
-      <p>
-        {part3} {exercises3}
-      </p>
-      <p>Number of exercises {exercises1 + exercises2 + exercises3}</p>
-		</div>
-		
-		*/
 
 const Header = (props) => {
 	return (
+    <div>
 			<h1>{props.course}</h1>
+    </div>
+
 		)
 }
 
 const Content = (props) => {
 	return (
-		<p>{props.part1}</p>
+    <div>
+      <Part content={props.content1} harjoitus={props.harjoitus1} />
+      <Part content={props.content2} harjoitus={props.harjoitus2} />
+      <Part content={props.content3} harjoitus={props.harjoitus3} />
+    </div>
 	)
+}
+
+const Part = (props) => {
+  return (
+    <div>
+      <p>{props.content} {props.harjoitus}</p>
+    </div>
+  )
+}
+
+const Total = (props) => {
+  return (
+    <div>
+      <p>Number of exercises {props.harjoitus1 + props.harjoitus2 + props.harjoitus3} </p>
+    </div>
+  )
 }
 
 ReactDOM.render(<App />, document.getElementById('root'))
