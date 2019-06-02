@@ -694,3 +694,20 @@ fatal: no upstream configured for branch 'master'
 > git ls-files --stage -- osa2/kurssitiedot/src/
 > git show :osa2/kurssitiedot/src/App.js
 > git ls-files --stage -- osa2/kurssitiedot/src/
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /home/roope/Documents/testailukansio/osa2harjoittelu
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/index.js
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :osa2/kurssitiedot/src/App.js
+> git show :osa2/kurssitiedot/src/index.js
+> git show :osa2/kurssitiedot/src/App.js
+> git show :osa2/kurssitiedot/src/index.js
