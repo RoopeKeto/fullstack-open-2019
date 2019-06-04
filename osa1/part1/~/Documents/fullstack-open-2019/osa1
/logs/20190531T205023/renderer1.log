@@ -1,0 +1,760 @@
+[2019-06-01 16:04:31.903] [renderer1] [error] connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock: Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 16:04:34.273] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 16:04:34.278] [renderer1] [error] connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock: Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 16:04:39.428] [renderer1] [error] connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock: Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 16:04:41.779] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 16:04:41.781] [renderer1] [error] connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock: Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 16:09:41.780] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 16:14:41.781] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 16:19:41.781] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 16:24:41.781] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 16:29:41.782] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 16:34:41.782] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 16:39:41.783] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 16:44:41.784] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 16:49:41.784] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 16:54:41.785] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 16:59:41.786] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 17:04:41.786] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 17:09:41.787] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 17:14:41.787] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 17:19:41.788] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 17:24:41.789] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 17:29:41.789] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 17:34:41.790] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 17:39:41.790] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 17:44:41.791] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 17:49:41.792] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 17:54:41.793] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 17:59:41.793] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 18:04:41.797] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 18:09:41.798] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 18:14:41.799] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 18:19:41.799] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 18:24:41.799] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 18:29:41.800] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 18:34:41.800] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 18:39:41.801] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 18:44:41.801] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 18:49:41.802] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 18:54:41.802] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 18:59:41.802] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 19:04:41.803] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 19:09:41.803] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 19:14:41.804] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 19:19:41.805] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 19:24:41.806] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 19:29:41.806] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 19:34:41.806] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 19:39:41.807] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 19:44:41.808] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 19:49:41.808] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 19:54:41.809] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 19:59:41.809] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 20:04:41.810] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 20:09:41.810] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 20:14:41.810] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 20:19:41.811] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 20:24:41.811] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 20:29:41.812] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 20:34:41.812] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 20:39:41.812] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 20:44:41.813] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 20:49:41.813] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 20:54:41.814] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 20:59:41.814] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 21:04:41.814] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 21:09:41.815] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 21:14:41.815] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 21:19:41.816] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 21:24:41.817] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 21:29:41.817] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 21:34:41.818] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 21:39:41.819] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 21:44:41.819] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 21:49:41.820] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 21:54:41.821] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 21:59:41.821] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 22:04:41.822] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 22:09:41.822] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 22:14:41.823] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 22:19:41.823] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 22:24:41.824] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 22:29:41.824] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 22:34:41.825] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 22:39:41.825] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 22:44:41.826] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 22:49:41.826] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 22:54:41.827] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 22:59:41.827] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 23:04:41.828] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 23:09:41.828] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 23:14:41.829] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 23:19:41.829] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 23:24:41.830] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 23:29:41.830] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 23:34:41.831] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 23:39:41.831] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 23:44:41.831] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 23:49:41.832] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 23:54:41.832] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-01 23:59:41.833] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 00:04:41.834] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 00:09:41.834] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 00:14:41.835] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 00:19:41.836] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 00:24:41.836] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 00:29:41.837] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 00:34:41.837] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 00:39:41.837] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 00:44:41.838] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 00:49:41.838] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 00:54:41.839] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 00:59:41.840] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 01:04:41.840] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 01:09:41.841] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 01:14:41.841] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 01:19:41.842] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 01:24:41.842] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 01:29:41.843] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 01:34:41.843] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 01:39:41.844] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 01:44:41.844] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 01:49:41.845] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 01:54:41.845] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 01:59:41.846] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 02:04:41.846] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 02:09:41.847] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 02:14:41.847] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 02:19:41.847] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 02:24:41.848] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 02:29:41.848] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 02:34:41.849] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 02:39:41.849] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 02:44:41.850] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 02:49:41.850] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 02:54:41.851] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 02:59:41.852] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 03:04:41.852] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 03:09:41.853] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 03:14:41.853] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 03:19:41.854] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 03:24:41.855] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 03:29:41.855] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 03:34:41.856] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 03:39:41.857] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 03:44:41.857] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 03:49:41.858] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 03:54:41.858] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 03:59:41.859] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 04:04:41.859] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 04:09:41.860] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 04:14:41.860] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 04:19:41.861] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 04:24:41.862] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 04:29:41.863] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 04:34:41.863] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 04:39:41.863] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 04:44:41.864] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 04:49:41.864] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 04:54:41.865] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 04:59:41.866] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 05:04:41.866] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 05:09:41.867] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 05:14:41.868] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 05:19:41.868] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 05:24:41.868] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 05:29:41.869] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 05:34:41.870] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 05:39:41.870] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 05:44:41.870] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 05:49:41.871] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 05:54:41.871] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 05:59:41.872] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 06:04:41.872] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 06:09:41.872] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 06:14:41.873] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 06:19:41.873] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 06:24:41.874] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 06:29:41.874] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 06:34:41.875] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 06:39:41.875] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 06:44:41.876] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 06:49:41.876] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 06:54:41.876] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 06:59:41.877] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 07:04:41.878] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 07:09:41.878] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 07:14:41.879] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 07:19:41.879] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 07:24:41.880] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 07:29:41.880] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 07:34:41.881] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 07:39:41.882] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 07:44:41.882] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 07:49:41.883] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 07:54:41.883] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 07:59:41.884] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 08:04:41.884] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 08:09:41.884] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 08:14:41.885] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 08:19:41.885] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 08:24:41.885] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 08:29:41.886] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 08:34:41.886] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 08:39:41.887] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 08:44:41.887] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 08:49:41.888] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 08:54:41.888] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 08:59:41.889] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 09:04:41.889] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 09:09:41.890] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 09:14:41.890] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 09:19:41.891] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 09:24:41.891] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 09:29:41.892] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 09:34:41.892] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 09:39:41.893] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 09:44:41.893] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 09:49:41.894] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 09:54:41.895] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 09:59:41.895] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 10:04:41.895] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 10:09:41.896] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 10:14:41.896] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 10:19:41.897] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 10:24:41.897] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 10:29:41.898] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 10:34:41.898] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 10:39:41.899] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 10:44:41.899] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 10:49:41.900] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 10:54:41.900] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 10:59:41.900] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 11:04:41.901] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 11:09:41.901] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 11:14:41.902] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 11:19:41.902] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 11:24:41.903] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 11:29:41.903] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 11:34:41.903] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 11:39:41.904] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 11:44:41.904] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 11:49:41.905] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 11:54:41.905] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 11:59:41.906] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 12:04:41.906] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 12:09:41.906] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 12:14:41.907] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 12:19:41.907] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 12:24:41.908] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 12:29:41.908] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
+[2019-06-02 12:34:41.909] [renderer1] [error] Error: connect ENOENT /home/roope/Documents/eipalautettavat/~/Documents/fullstack-open-2019/osa1
+/1.33.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1161:14)
