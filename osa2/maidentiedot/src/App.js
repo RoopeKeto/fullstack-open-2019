@@ -8,44 +8,35 @@ const App = () => {
       ]
   )
   const [filter, setNewFilter] = useState('')
-  const [filteredMaatLKm, setFilteredMaatLkm] = useState(0)
+  //const [filteredMaatLKm, setFilteredMaatLkm] = useState(0)
 
   useEffect(() => {
     axios.get("https://restcountries.eu/rest/v2/all")
       .then(response => {
 
         setCountries(response.data)
-        console.log("asetettiin countries dataksi alla oleva")
-        console.log(response.data)
       })
   }, [])
 
-  const maat = countries.filter(country => country.name.indexOf(filter) != -1)
-  console.log("maita on: ", maat)
+  const maat = countries.filter(country => country.name.toLowerCase().indexOf(filter.toLowerCase()) !== -1)
 
   const handleFilterChange = (event) => {
     setNewFilter(event.target.value)
   }
 
-  const filterCountries = () => {
-    countries.filter()
-  }
-
-
   return (
     <div>
       <Filter filter={filter} handleChange={handleFilterChange} />
-      
-      <Maat maat={maat} filter={filter}/>
-      <div>
-        debugging:
-      <MaanTiedot maat={maat} name="Finland"></MaanTiedot>
-      </div>
+      <Maat maat={maat} filter={filter} setNewFilter={setNewFilter}/>
     </div>
   )
 }
 
-const Maat = ({ maat, filter }) => {
+
+
+//-------------- Komponentit appiin -----------------
+
+const Maat = ({ maat, filter, setNewFilter }) => {
   if (filter === ''){
     return(
       <div></div>
@@ -60,26 +51,16 @@ const Maat = ({ maat, filter }) => {
 
   if ((maat.length < 10) && (maat.length > 1)){
     return (
-      maat.map(maa => <div key={maa.name}>{maa.name}</div>)
+      maat.map(maa => <div key={maa.name}>
+        {maa.name}
+        <button onClick={() => console.log(setNewFilter(maa.name))}>show</button>
+        </div>)
     )
   }
   
   if (maat.length===1){
     return (
-      <div>
-        <p></p>
-        <h1>{maat[0].name}</h1>
-        <p></p>
-        <div>capital {maat[0].capital}</div>
-        <div>population {maat[0].population}</div>
-        <p></p>
-        <h2>languages</h2>
-        <p></p>
-        <ul>
-          {maat[0].languages.map(language => <li key={language.name}>{language.name}</li>)}
-        </ul>
-        <img src={maat[0].flag} height="100" width="100"></img>
-      </div>
+     <MaanTiedot maat={maat} name={maat[0].name}></MaanTiedot>
     )
   }
   return (
@@ -88,8 +69,24 @@ const Maat = ({ maat, filter }) => {
 }
 
 const MaanTiedot = ({ maat, name }) => {
+  const [saaTiedot, setSaaTiedot] = useState({})
+  const [condition, setCondition] = useState({})
+
   const tilastotMaasta = maat.filter(maa => maa.name === name)[0]
-  console.log("tilastot maasta", tilastotMaasta)
+
+  useEffect(() => {
+    axios.get(`https://api.apixu.com/v1/current.json?` +
+      `key=e3fe9d8645f648a490182130190806&q=${tilastotMaasta.capital}`)
+      .then(response => {
+        setSaaTiedot(response.data.current)
+        setCondition(response.data.current.condition)     
+      })
+  }, [])
+
+  if (typeof tilastotMaasta=== 'undefined' || typeof condition.icon === 'undefined'){
+    return null
+  }
+
   return (
     <div>
       <p></p>
@@ -103,7 +100,14 @@ const MaanTiedot = ({ maat, name }) => {
       <ul>
         {tilastotMaasta.languages.map(language => <li key={language.name}>{language.name}</li>)}
       </ul>
-      <img src={tilastotMaasta.flag} height="100" width="100"></img>
+      <img alt="lippu" src={tilastotMaasta.flag} height="100" width="100"></img>
+      <div>
+        <h2>Weather in {tilastotMaasta.capital}</h2>
+        <p><strong>temperature: </strong>{saaTiedot.temp_c} Celsius</p>
+        <img alt="Milta saa näyttää" src={`https:${condition.icon}`} width="65" height="65"></img>
+        <p><strong>wind: </strong>{saaTiedot.wind_kph} kph direction {saaTiedot.wind_dir}</p>
+      </div>
+
     </div>
     
   )

@@ -1373,5 +1373,19 @@
     },
     "theme": "vs-dark",
     "themeBackground": "#1e1e1e",
-    "pickerWorkingDir": "/home/roope/Documents/testailukansio"
+    "pickerWorkingDir": "/home/roope/Documents/testailukansio",
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/roope/Documents/testailukansio/osa2harjoittelu",
+            "backupPath": "/home/roope/Documents/fullstack-open-2019/osa2/puhelinluettelo/Backups/bb46fd3f05ea093cb34bc8f67deb43b0",
+            "uiState": {
+                "mode": 1,
+                "x": 1920,
+                "y": 28,
+                "width": 1055,
+                "height": 1052
+            }
+        },
+        "openedWindows": []
+    }
 }
